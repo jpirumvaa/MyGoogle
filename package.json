@@ -1,0 +1,16 @@
+{
+  "name": "bfr",
+  "version": "1.0.0",
+  "description": "\"Buy from Rwanda\"",
+  "main": "index.html",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite": "lite-server"
+  },
+  "author": "Jean Pierre",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
